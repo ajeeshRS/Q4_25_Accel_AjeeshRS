@@ -1,0 +1,9 @@
+[submodule "whitelist-transfer-hook"]
+	path = whitelist-transfer-hook
+	url = https://github.com/ASCorreia/whitelist-transfer-hook.git
+[submodule "whitelist-challenge/whitelist-transfer-hook"]
+	path = whitelist-challenge/whitelist-transfer-hook
+	url = https://github.com/ASCorreia/whitelist-transfer-hook.git
+[submodule "whitelist-challenge/whitelist_challenge_anchor"]
+	path = whitelist-challenge/whitelist_challenge_anchor
+	url = https://github.com/ajeeshRS/whitelist_challenge_anchor.git
