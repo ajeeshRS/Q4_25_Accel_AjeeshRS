@@ -7,3 +7,9 @@
 [submodule "whitelist-challenge/whitelist_challenge_anchor"]
 	path = whitelist-challenge/whitelist_challenge_anchor
 	url = https://github.com/ajeeshRS/whitelist_challenge_anchor.git
+[submodule "litesvm-challenge/escrow-litesvm"]
+	path = litesvm-challenge/escrow-litesvm
+	url = https://github.com/ASCorreia/escrow-litesvm.git
+[submodule "litesvm-challenge/escrow_litesvm_challenge"]
+	path = litesvm-challenge/escrow_litesvm_challenge
+	url = https://github.com/ajeeshRS/escrow_litesvm_challenge.git
