@@ -13,3 +13,6 @@
 [submodule "litesvm-challenge/escrow_litesvm_challenge"]
 	path = litesvm-challenge/escrow_litesvm_challenge
 	url = https://github.com/ajeeshRS/escrow_litesvm_challenge.git
+[submodule "whitelist_vault_week1_challenge"]
+	path = whitelist_vault_week1_challenge
+	url = https://github.com/ajeeshRS/whitelist_vault_week1_challenge.git
