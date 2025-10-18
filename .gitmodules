@@ -16,3 +16,9 @@
 [submodule "whitelist_vault_week1_challenge"]
 	path = whitelist_vault_week1_challenge
 	url = https://github.com/ajeeshRS/whitelist_vault_week1_challenge.git
+[submodule "magicblock-vrf/magicblock-er-example"]
+	path = magicblock-vrf/magicblock-er-example
+	url = https://github.com/ASCorreia/magicblock-er-example.git
+[submodule "magicblock-vrf/magicblock-VRF-plugin-ER"]
+	path = magicblock-vrf/magicblock-VRF-plugin-ER
+	url = https://github.com/ajeeshRS/magicblock-VRF-plugin-ER.git
