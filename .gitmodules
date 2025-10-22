@@ -22,3 +22,6 @@
 [submodule "magicblock-vrf/magicblock-VRF-plugin-ER"]
 	path = magicblock-vrf/magicblock-VRF-plugin-ER
 	url = https://github.com/ajeeshRS/magicblock-VRF-plugin-ER.git
+[submodule "pinocchio-escrow"]
+	path = pinocchio-escrow
+	url = https://github.com/ajeeshRS/pinocchio-escrow.git
