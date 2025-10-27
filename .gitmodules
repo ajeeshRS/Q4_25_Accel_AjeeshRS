@@ -28,3 +28,6 @@
 [submodule "fundraiser-contract-pinocchio"]
 	path = fundraiser-contract-pinocchio
 	url = https://github.com/ajeeshRS/fundraiser-contract-pinocchio.git
+[submodule "solana-gpt-oracle-program"]
+	path = solana-gpt-oracle-program
+	url = https://github.com/ajeeshRS/solana-gpt-oracle-program.git
